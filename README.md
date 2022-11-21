@@ -1,4 +1,4 @@
-![Header](https://github.com/QADyakov/qadyakov/blob/main/assets/header.jpg) 
+![Header](https://github.com/QADyakov/qadyakov/blob/main/assets/qaheader.jpg) 
 
 About Me 
 
