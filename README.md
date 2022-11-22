@@ -2,7 +2,12 @@
 
 ## QA Engineer | Тестировщик ПО
 
-My Portfolio
+### Мое портфолио
+![Chek-List]()
+
+![Test Case]()
+
+![Bug Report]()
 
 ### Инструменты
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=flat-square&logo=jira)
@@ -13,3 +18,8 @@ My Portfolio
 ![JMeter](https://img.shields.io/badge/-JMeter-090909?style=flat-square&logo=JMeter)
 ![Sql](https://img.shields.io/badge/-SQL-090909?style=flat-square&logo=sql)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=flat-square&logo=DevTools)
+
+### Контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram)](https://t.me/dyakmer)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=flat-square&logo=Linkedin)](https://www.linkedin.com/mwlite/in/nikita-dyakov-493415236)
+<p>Всегда рад Вашим сообщениям, <a href="mailto:nickdyakov@gmail.com">пишите письма :)</a></p>
