@@ -32,4 +32,4 @@ ___
 [<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/dyakmer "Ссылка на Telegram") 
 [<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:nickdyakov@gmail.com "Написать на Gmail")  [<img src="https://github.com/Ordbe/ordbe/blob/main/linkedin-round.png?raw=true">](https://www.linkedin.com/in/dyakmer "Ссылка на LinkedIn") </br>
 :round_pushpin: Russia, Saransk </br>
-:telephone_receiver: +7 (927) 198-55-08 </br>
+:iphone: +7 (927) 198-55-08 </br>
