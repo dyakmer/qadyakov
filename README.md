@@ -1,7 +1,13 @@
+<div id="header" align="center">
+
 ![Header](https://github.com/QADyakov/qadyakov/blob/main/assets/qaheader.jpg) 
 
-## QA Engineer | Тестировщик ПО
+<h2>
+  Я QA Engineer | Тестировщик ПО
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 
+---
 ### Мое портфолио
 ![Chek-List]()
 
@@ -9,6 +15,7 @@
 
 ![Bug Report]()
 
+---
 ### Инструменты
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=flat-square&logo=jira)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=flat-square&logo=TestRail)
@@ -19,6 +26,7 @@
 ![Sql](https://img.shields.io/badge/-SQL-090909?style=flat-square&logo=sql)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=flat-square&logo=DevTools)
 
+---
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat-square&logo=Telegram)](https://t.me/dyakmer)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=flat-square&logo=Linkedin)](https://www.linkedin.com/mwlite/in/nikita-dyakov-493415236)
