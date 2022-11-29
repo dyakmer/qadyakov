@@ -9,11 +9,11 @@
 
 
 ### Мое портфолио
-![Chek-List]()
+![Chek-List](https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing)
 
-![Test Case]()
+![Test Case](https://docs.google.com/spreadsheets/d/1I68PHQHDLNYsjYM90xXao59Og39Q0Eqcauo-myYL2vg/edit?usp=sharing)
 
-![Bug Report]()
+![Bug Report](https://docs.google.com/spreadsheets/d/1RH6slwBvV2GyVrWn5t_x4lDiykG5yhyPA69OoFmJMgc/edit?usp=sharing)
 
 
 ### Инструменты
