@@ -28,8 +28,8 @@
 
 ___
 ### Контакты
-[<img src="https://github.com/Ordbe/ordbe/blob/main/hh-round.png?raw=true">](https://saransk.hh.ru/resume/b10ca93dff0912007f0039ed1f666f50786679 "Резюме на headhunter") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/tel-round.png?raw=true">](https://t.me/dyakmer "Ссылка на Telegram") 
-[<img src="https://github.com/Ordbe/ordbe/blob/main/gm-round.png?raw=true">](mailto:nickdyakov@gmail.com "Написать на Gmail")  [<img src="https://github.com/Ordbe/ordbe/blob/main/linkedin-round.png?raw=true">](https://www.linkedin.com/in/dyakmer "Ссылка на LinkedIn") </br>
+[<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/hh.png?raw=true">](https://saransk.hh.ru/resume/b10ca93dff0912007f0039ed1f666f50786679 "Резюме на headhunter") 
+[<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/telegram.png?raw=true">](https://t.me/dyakmer "Ссылка на Telegram") 
+[<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/gmail.png?raw=true">](mailto:nickdyakov@gmail.com "Написать на Gmail")  [<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/linkedin.png?raw=true">](https://www.linkedin.com/in/dyakmer "Ссылка на LinkedIn") </br>
 :round_pushpin: Russia, Saransk </br>
 :iphone: +7 (927) 198-55-08 </br>
