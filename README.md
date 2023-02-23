@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
+<div align="left">
 
 ### Мое портфолио
 ![Chek-List](https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing)
