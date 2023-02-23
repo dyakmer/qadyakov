@@ -9,11 +9,7 @@
 
 
 ### Мое портфолио
-[![Chek-List](https://github.com/QADyakov/qadyakov/blob/main/assets/exel_icon.png?style=flat-square&logo)](https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing)
-
-[![Test Case](https://github.com/QADyakov/qadyakov/blob/main/assets/exel_icon.png?style=flat-square&logo)](https://docs.google.com/spreadsheets/d/1I68PHQHDLNYsjYM90xXao59Og39Q0Eqcauo-myYL2vg/edit?usp=sharing)
-
-[![Bug Report](https://github.com/QADyakov/qadyakov/blob/main/assets/exel_icon.png?style=flat-square&logo)](https://docs.google.com/spreadsheets/d/1RH6slwBvV2GyVrWn5t_x4lDiykG5yhyPA69OoFmJMgc/edit?usp=sharing)
+![Chek-List](https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing)
 
 
 ### Инструменты
