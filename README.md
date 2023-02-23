@@ -24,6 +24,7 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=flat-square&logo=DevTools)
 
 ___
+<div align="center">
 ### Контакты
 [<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/hh.png?raw=true">](https://saransk.hh.ru/resume/b10ca93dff0912007f0039ed1f666f50786679 "Резюме на headhunter") 
 [<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/telegram.png?raw=true">](https://t.me/dyakmer "Ссылка на Telegram") 
