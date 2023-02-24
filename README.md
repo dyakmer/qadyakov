@@ -11,7 +11,7 @@
 
 ### About me
 I am a QA Engineer i have experience working as the only tester on the project. I was able to independently build the testing process and release policy in the team from scratch, participated in the project from the beginning of development to the operation of the product by users, improved the quality of the product. Is able to effectively manage his working time, interact productively with different project teams. I'm testing the front and backend, now I'm learning automation.
-# What I used and what I worked with:
+#### What I used and what I worked with:
 * Study and analysis of requirements
 * Work on projects using Agile methodology
 * Applied in practice: functional, smoke, repeated, regression, component, integration, system testing
