@@ -3,7 +3,9 @@
 ![Header](https://github.com/QADyakov/qadyakov/blob/main/assets/qaheader.jpg) 
 
 <h2>
-  I am QA Engineer
+  <b>
+  I am QA Engineer 
+  </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
