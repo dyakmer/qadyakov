@@ -9,9 +9,9 @@
 
 <div align="left">
 
-### Обо мне
+### About me
 I am a QA Engineer i have experience working as the only tester on the project. I was able to independently build the testing process and release policy in the team from scratch, participated in the project from the beginning of development to the operation of the product by users, improved the quality of the product. Is able to effectively manage his working time, interact productively with different project teams. I'm testing the front and backend, now I'm learning automation.
-## What I used and what I worked with:
+# What I used and what I worked with:
 * Study and analysis of requirements
 * Work on projects using Agile methodology
 * Applied in practice: functional, smoke, repeated, regression, component, integration, system testing
@@ -40,11 +40,11 @@ value analysis, error prediction, pairwise testing
 * Basic skills of working with Git (GitHub, GitLab)
 * Ability to work with VirtualBox
 
-### Мое портфолио
+### My portfolio
 <a href = "https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing/"> This is a link to examples of documentation design </a>
 
 
-### Инструменты
+### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=flat-square&logo=jira)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=flat-square&logo=TestRail)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=flat-square&logo=Postman)
@@ -57,7 +57,7 @@ value analysis, error prediction, pairwise testing
 ___
 <div align="center">
 
-### Контакты
+### Contacts
 [<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/hh.png?raw=true">](https://saransk.hh.ru/resume/b10ca93dff0912007f0039ed1f666f50786679 "Резюме на headhunter") 
 [<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/telegram.png?raw=true">](https://t.me/dyakmer "Ссылка на Telegram") 
 [<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/gmail.png?raw=true">](mailto:nickdyakov@gmail.com "Написать на Gmail")  [<img src="https://github.com/QADyakov/qadyakov/blob/main/assets/linkedin.png?raw=true">](https://www.linkedin.com/in/dyakmer "Ссылка на LinkedIn") </br>
