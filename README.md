@@ -10,7 +10,7 @@
 <div align="left">
 
 ### Мое портфолио
-![Chek-List](https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing)
+<a href = "https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing/"> Ссылка на примеры документации </a>
 
 
 ### Инструменты
