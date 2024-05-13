@@ -40,9 +40,6 @@ value analysis, error prediction, pairwise testing
 * Basic skills of working with Git (GitHub, GitLab)
 * Ability to work with VirtualBox
 
-## My portfolio
-<a href = "https://docs.google.com/spreadsheets/d/10ncEhDNA_uinYb3TH_Zz5MSmMxB9l7Ws1s1N02ogOe8/edit?usp=sharing/"> This is a link to examples of documentation design </a>
-
 
 ## Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=flat-square&logo=jira)
